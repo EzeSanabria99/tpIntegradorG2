@@ -24,6 +24,6 @@ public class Equipo {
     }
 
     public String toString(){
-        return "Equipo [nombre= "+ nombre + "Descripcion =" + descripcion + "]";
+        return "Equipo [nombre= "+ this.nombre + "Descripcion =" + this.descripcion + "]";
     }
 }
